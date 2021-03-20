@@ -1,0 +1,12 @@
+{
+  "name": "rn-pepito",
+  "displayName": "rn-pepito",
+  "expo": {
+    "name": "rn-pepito",
+    "slug": "rn-pepito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
